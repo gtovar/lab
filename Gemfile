@@ -6,8 +6,9 @@ gem 'heroku'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'pg'
-
-
+gem 'carrierwave'
+gem 'rmagick'
+gem 'fog'
 # Gems used only for assets and not required
 # in production environments by default.
 group :assets do
